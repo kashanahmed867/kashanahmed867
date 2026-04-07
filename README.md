@@ -1,16 +1,28 @@
-### Hi there 👋
+# Kashan Ahmed
+**Senior Software Engineer (Squad Lead) | Solutions Architect | Backend, DevOps, AI, Cybersecurity**
 
-<!--
-**kashanahmed867/kashanahmed867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Summary
+A self-motivated Senior Software Engineer with **8+ years of professional experience** in the Software & AI industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Proven track record of delivering **secure, scalable, and high-performance solutions**
+- Strong leadership experience as a **Squad Lead managing distributed teams**
+- Expertise in **Backend Architecture, DevOps, and AI-driven systems**
+- Active researcher in **AI & Cybersecurity** with published work
+
+---
+
+### Strengths
+
+- Team Leadership  
+- Problem Solving  
+- Effective Communication  
+- Continuous Learning  
+
+---
+
+### Publications
+[Google Scholar](https://scholar.google.com/citations?user=0jlkQW4AAAAJ&hl=en)
+
+---
